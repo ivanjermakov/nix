@@ -1,0 +1,3 @@
+# nix
+
+Personal NixOS configuration
